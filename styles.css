@@ -3,7 +3,7 @@ body{
 }
 
 .container{
-    width: 220px;
+    width: 222.5px;
     display: flex;
     flex-wrap: wrap;
     height: 440px;
@@ -45,7 +45,7 @@ h3{
 }
 
 .mini{
-    width: 88px;
+    width: 89px;
     height: 88px;
     display: flex;
     flex-wrap : wrap;
